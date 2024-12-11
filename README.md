@@ -1,2 +1,2 @@
 # twitter_sentiment_analysis
-this is a project which peaks a little in the nlp and does sentiment analysis while using tweets 
+Developed a sentiment analysis model using NLP libraries (NLTK) to analyze tweets. The project involved preprocessing text data, extracting features, and classifying sentiments to identify patterns and trends in public opinion.
